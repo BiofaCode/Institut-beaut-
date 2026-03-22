@@ -1,3 +1,5 @@
+"use client";
+
 import Link from "next/link";
 import { Sparkles, MapPin, Phone, Mail, Instagram, Facebook, Clock } from "lucide-react";
 
